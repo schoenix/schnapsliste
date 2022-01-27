@@ -11,7 +11,7 @@ Es wird benötigt: python3, am besten erstellt man dann eine virtuelle python-Um
   source bin/activate
   pip install toml
   pip install argparse
-  git clone ...
+  git clone git@github.com:schoenix/schnapsliste.git
   cd schnapsliste
   chmod +x get_list.py
   
@@ -30,7 +30,7 @@ Letztere muss man halt entsprechend anpassen.
   source ../bin/activate # falls noch nicht zuvor ausgeführt, also direkt nach der Installation ist es nicht nötig
   ##
   
-  ./get_list.py <mischliste> <vorhandene_zutaten>
+  ./get_list.py mischliste.toml vorhandene_zutaten.toml schnapsliste.toml #Man kann natürlich theoretisch auch andere Dateinamen nehmen.
   
   ## optional
   deactivate # Falls man es nicht nochmal ausführen will um die virtuelle python-Umgebung wieder zu verlassen
