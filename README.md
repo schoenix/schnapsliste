@@ -20,7 +20,8 @@ Es wird benötigt: python3, am besten erstellt man dann eine virtuelle python-Um
 Es gibt zwei Dateien im [toml](https://toml.io/en/)-Format eine mit den Mischlisten und eine mit den Vorhandenen Zutaten (siehe Beispieldateien)
 
 ```bash
-  # in das entsprechende Verzeichnis wechseln
+  # in das entsprechende Verzeichnis wechseln (siehe Installation)
+  source ../bin/activate # falls noch nicht zuvor ausgeführt, also direkt nach der Installation ist es nicht nötig
   ./get_list.py <mischliste> <vorhandene_zutaten>
 ```
 Man erhält eine Liste mit den möglichen Schnäpsen aus diesen Zutaten.
