@@ -30,7 +30,7 @@ Letztere muss man halt entsprechend anpassen.
   source ../bin/activate # falls noch nicht zuvor ausgeführt, also direkt nach der Installation ist es nicht nötig
   ##
   
-  ./get_list.py <mischliste> <vorhandene_zutaten>
+  ./get_list.py mischliste.toml vorhandene_zutaten.toml schnapsliste.toml #Man kann natürlich theoretisch auch andere Dateinamen nehmen.
   
   ## optional
   deactivate # Falls man es nicht nochmal ausführen will um die virtuelle python-Umgebung wieder zu verlassen
