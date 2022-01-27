@@ -21,7 +21,8 @@ Es wird benötigt: python3, am besten erstellt man dann eine virtuelle python-Um
 ```
 
 ## Benutzung
-Es gibt zwei Dateien im [toml](https://toml.io/en/)-Format eine mit den Mischlisten und eine mit den Vorhandenen Zutaten (siehe Beispieldateien)
+Es gibt zwei Dateien im [toml](https://toml.io/en/)-Format eine mit den Mischlisten und eine mit den Vorhandenen Zutaten (siehe Beispieldateien).
+Letztere muss man halt entsprechend anpassen.
 
 ```bash
   ## optional
