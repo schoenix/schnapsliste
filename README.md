@@ -11,7 +11,7 @@ Es wird benötigt: python3, am besten erstellt man dann eine virtuelle python-Um
   source bin/activate
   pip install toml
   pip install argparse
-  git clone ...
+  git clone git@github.com:schoenix/schnapsliste.git
   cd schnapsliste
   chmod +x get_list.py
   
