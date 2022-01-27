@@ -1,0 +1,14 @@
+[shots]
+[shots.shot1]
+name = "shot1"
+logo = "dateiname_des_logos_von_shot1"
+preis = "2€"
+zutaten = [ { name = "zutat1", menge = "2cl" },
+            { name = "zutat2", menge = "2cl" }]
+
+[shots.shot2]
+name = "shot2"
+logo = "dateiname_des_logos_von_shot2"
+preis = "2€"
+zutaten = [ { name = "zutat1", menge = "2cl" },
+            { name = "zutat3", menge = "2cl" }]
