@@ -1,14 +1,1062 @@
 [shots]
-[shots.shot1]
-name = "shot1"
-logo = "dateiname_des_logos_von_shot1"
+[shots.Metallica]
+name = "Metallica"
+logo = ""
 preis = "2€"
-zutaten = [ { name = "zutat1", menge = "2cl" },
-            { name = "zutat2", menge = "2cl" }]
+zutaten = [
+{ name = "Whisky (Jameson)", menge = "4cl" } ]
 
-[shots.shot2]
-name = "shot2"
-logo = "dateiname_des_logos_von_shot2"
+[shots.In_Flames]
+name = "In Flames"
+logo = ""
 preis = "2€"
-zutaten = [ { name = "zutat1", menge = "2cl" },
-            { name = "zutat3", menge = "2cl" }]
+zutaten = [
+{ name = "Kahlua", menge = "1cl" },
+{ name = "Baileys", menge = "1cl" },
+{ name = "Cointreau", menge = "1cl" },
+{ name = "Stroh 80", menge = "1cl" } ]
+
+[shots.Tankard]
+name = "Tankard"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Pils", menge = "4cl" } ]
+
+[shots.Korn]
+name = "Korn"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Korn", menge = "4cl" } ]
+
+[shots.Iced_Earth]
+name = "Iced Earth"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Kahlua", menge = "1cl" },
+{ name = "Baileys", menge = "1cl" },
+{ name = "Pfeffi", menge = "2cl" } ]
+
+[shots.Justin_Bieber]
+name = "Justin Bieber"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Malibu", menge = "2cl" },
+{ name = "Kirschsaft", menge = "2cl" } ]
+
+[shots.Manowar]
+name = "Manowar"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Whisky (Jameson)", menge = "2cl" },
+{ name = "Cointreau", menge = "2cl" } ]
+
+[shots.Born_Of_Osiris]
+name = "Born Of Osiris"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Gin", menge = "3cl" },
+{ name = "Blue Curacao", menge = "1cl" } ]
+
+[shots.Equilibrium_1]
+name = "Equilibrium 1"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Baileys", menge = "2cl" },
+{ name = "Wodka", menge = "2cl" } ]
+
+[shots.Equilibrium_2]
+name = "Equilibrium 2"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Korn", menge = "3cl" },
+{ name = "Apfelsaft", menge = "1cl" } ]
+
+[shots.Amon_Amarth]
+name = "Amon Amarth"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Wodka", menge = "2cl" },
+{ name = "Cointreau", menge = "1cl" },
+{ name = "Limetten/Zitronensaft", menge = "1cl" } ]
+
+[shots.Cannibal_Corpse]
+name = "Cannibal Corpse"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Jägermeister", menge = "2cl" },
+{ name = "Pfeffi", menge = "2cl" } ]
+
+[shots.Tokio_Hotel]
+name = "Tokio Hotel"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Bananensaft", menge = "2cl" },
+{ name = "Wodka", menge = "2cl" } ]
+
+[shots.Suicide_Silence_1]
+name = "Suicide Silence 1"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Tequila", menge = "4cl" } ]
+
+[shots.Suicide_Silence_2]
+name = "Suicide Silence 2"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Tequila", menge = "2cl" },
+{ name = "Himbeersirup", menge = "2cl" },
+{ name = "Tabasco", menge = "Schuss" } ]
+
+[shots.Boehse_Onkelz]
+name = "Böhse Onkelz"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Whisky", menge = "2cl" },
+{ name = "Milch", menge = "2cl" } ]
+
+[shots.Alestorm]
+name = "Alestorm"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Rum (Captain Morgan)", menge = "4cl" },
+{ name = "Limetten/Zitronensaft", menge = "Spritzer" } ]
+
+[shots.Tool]
+name = "Tool"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Cachaca", menge = "2cl" },
+{ name = "Cointreau", menge = "2cl" } ]
+
+[shots.Lamb_Of_God]
+name = "Lamb Of God"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Whisky", menge = "2cl" },
+{ name = "Malibu", menge = "2cl" } ]
+
+[shots.Debauchery]
+name = "Debauchery"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Kahlua", menge = "3cl" },
+{ name = "Stroh 80", menge = "1cl" } ]
+
+[shots.Nicki_Minaj]
+name = "Nicki Minaj"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Cachaca", menge = "1cl" },
+{ name = "Cointreau", menge = "1cl" },
+{ name = "Malibu", menge = "2cl" } ]
+
+[shots.The_Black_Dahlia_Murder_1]
+name = "The Black Dahlia Murder 1"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Wodka", menge = "1cl" },
+{ name = "Baileys", menge = "1cl" },
+{ name = "Kahlua", menge = "2cl" } ]
+
+[shots.The_Black_Dahlia_Murder_2]
+name = "The Black Dahlia Murder 2"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Wodka", menge = "1cl" },
+{ name = "Kahlua", menge = "1cl" },
+{ name = "Irish Cream", menge = "2cl" } ]
+
+[shots.Nickelback]
+name = "Nickelback"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Stroh 80", menge = "1cl" },
+{ name = "Sekt", menge = "3cl" } ]
+
+[shots.Carnifex]
+name = "Carnifex"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Baileys", menge = "2cl" },
+{ name = "Sambuca", menge = "2cl" } ]
+
+[shots.Job_For_A_Cowboy_1]
+name = "Job For A Cowboy 1"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Tequila", menge = "1cl" },
+{ name = "Whisky (Jacky)", menge = "1cl" },
+{ name = "Peach Brandy", menge = "2cl" } ]
+
+[shots.Job_For_A_Cowboy_2]
+name = "Job For A Cowboy 2"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Pepino Peach", menge = "2cl" },
+{ name = "Whisky", menge = "1cl" },
+{ name = "Tequila", menge = "1cl" },
+{ name = "Tabasco", menge = "Spritzer" } ]
+
+[shots.Immortal]
+name = "Immortal"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Milch", menge = "1cl" },
+{ name = "Peach Brandy", menge = "2cl" },
+{ name = "Grenadinen Sirup", menge = "1cl" } ]
+
+[shots.Scooter_1]
+name = "Scooter 1"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Baileys", menge = "1cl" },
+{ name = "Sekt", menge = "3cl" } ]
+
+[shots.Scooter_2]
+name = "Scooter 2"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Sekt", menge = "3cl" },
+{ name = "Stroh 80", menge = "1cl" } ]
+
+[shots.Summerbreeze]
+name = "Summerbreeze"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Pils", menge = "2cl" },
+{ name = "Korn", menge = "2cl" } ]
+
+[shots.Breeze]
+name = "Breeze"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Pils", menge = "2cl" },
+{ name = "Korn", menge = "2cl" } ]
+
+
+[shots.Eluveitie]
+name = "Eluveitie"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Baileys", menge = "2cl" },
+{ name = "Gin", menge = "1cl" },
+{ name = "Whisky (Jameson)", menge = "1cl" } ]
+
+[shots.Fiddlers_Green]
+name = "Fiddlers Green"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Southern Comfort", menge = "2cl" },
+{ name = "Pfeffi", menge = "2cl" } ]
+
+[shots.Cliteater]
+name = "Cliteater"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Whisky (Jameson)", menge = "2cl" },
+{ name = "Campari", menge = "2cl" } ]
+
+[shots.Marduk]
+name = "Marduk"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Korn", menge = "2cl" },
+{ name = "Jägermeister", menge = "2cl" } ]
+
+[shots.Miley_Cyrus]
+name = "Miley Cyrus"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Batida", menge = "2cl" },
+{ name = "Ananassaft", menge = "2cl" } ]
+
+[shots.Slayer_1]
+name = "Slayer 1"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Wodka", menge = "4cl" },
+{ name = "Salz", menge = "Prise" },
+{ name = "Pfeffer", menge = "Prise" } ]
+
+[shots.Slayer_2]
+name = "Slayer 2"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Korn", menge = "4cl" } ]
+
+[shots.Static-X]
+name = "Static-X"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Limetten/Zitronensaft", menge = "2cl" },
+{ name = "Blue Curacao", menge = "2cl" } ]
+
+[shots.Ayran_80]
+name = "Ayran 80"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Ayran", menge = "3cl" },
+{ name = "Stroh 80", menge = "1cl" } ]
+
+[shots.Amorphis]
+name = "Amorphis"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Wodka", menge = "2cl" },
+{ name = "43er", menge = "1cl" },
+{ name = "Baileys", menge = "1cl" } ]
+
+[shots.Aborted]
+name = "Aborted"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Martini", menge = "2cl" },
+{ name = "Gin (billig)", menge = "2cl" } ]
+
+[shots.Dont_Hassel_The_Hoff]
+name = "Dont Hassel The Hoff"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Jägermeister", menge = "3cl" },
+{ name = "Kahlua", menge = "1cl" } ]
+
+[shots.Skull_Branded_Pirates]
+name = "Skull Branded Pirates"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Rum (billig z.B. White Diamond)", menge = "2cl" },
+{ name = "Maracujasaft", menge = "2cl" } ]
+
+[shots.The_Faceless_1]
+name = "The Faceless 1"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Blue Curacao", menge = "1cl" },
+{ name = "Wodka", menge = "2cl" },
+{ name = "Cointreau", menge = "1cl" } ]
+
+[shots.The_Faceless_2]
+name = "The Faceless 2"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Wodka", menge = "3cl" },
+{ name = "Blue Curacao", menge = "1cl" } ]
+
+[shots.3_Inches_Of_Blood]
+name = "3 Inches Of Blood"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Grenadinen Sirup", menge = "1cl" },
+{ name = "Gin", menge = "2cl" },
+{ name = "Wodka", menge = "1cl" } ]
+
+[shots.Nekrogoblikon]
+name = "Nekrogoblikon"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Pfeffi", menge = "2cl" },
+{ name = "Wodka", menge = "1cl" },
+{ name = "Gin", menge = "1cl" } ]
+
+[shots.Black_Sabbath]
+name = "Black Sabbath"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Rivella", menge = "2cl" },
+{ name = "Gin", menge = "2cl" } ]
+
+[shots.I_Killed_The_Prom_Queen]
+name = "I Killed The Prom Queen"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Apfelsaft", menge = "2cl" },
+{ name = "Jägermeister", menge = "2cl" } ]
+
+[shots.Machine_Head]
+name = "Machine Head"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Tequila", menge = "4cl" },
+{ name = "Zitrone", menge = "Halbe" },
+{ name = "Salz", menge = "Prise" } ]
+
+[shots.Heaven_Shall_Burn]
+name = "Heaven Shall Burn"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Wodka", menge = "1cl" },
+{ name = "Passoa", menge = "2cl" },
+{ name = "Limetten/Zitronensaft", menge = "1cl" } ]
+
+[shots.Parkway_Drive]
+name = "Parkway Drive"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Rum (billig z.B. White Diamond)", menge = "3cl" },
+{ name = "Limetten/Zitronensaft", menge = "1Spritzer" },
+{ name = "Blue Curacao", menge = "1cl" } ]
+
+[shots.Fleshgod_Apocalypse]
+name = "Fleshgod Apocalypse"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Malibu", menge = "2cl" },
+{ name = "Wodka", menge = "1cl" },
+{ name = "Kirschsaft", menge = "1cl" } ]
+
+[shots.Nile]
+name = "Nile"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Whisky (Jameson)", menge = "1cl" },
+{ name = "Gin", menge = "1cl" },
+{ name = "Pepino Peach", menge = "2cl" } ]
+
+[shots.Iron_Maiden]
+name = "Iron Maiden"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Jägermeister", menge = "2cl" },
+{ name = "Pepino Peach", menge = "1cl" },
+{ name = "Cranberry", menge = "1cl" } ]
+
+[shots.Here_Commes_The_Kraken]
+name = "Here Commes The Kraken"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Absinth", menge = "4cl" } ]
+
+[shots.Buffet_Of_Fate]
+name = "Buffet Of Fate"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Jägermeister", menge = "1cl" },
+{ name = "Pfeffi", menge = "1cl" },
+{ name = "Whisky", menge = "2cl" } ]
+
+[shots.Deus_Ex_Vagina]
+name = "Deus Ex Vagina"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Slivovic", menge = "4cl" } ]
+
+[shots.Sophicide]
+name = "Sophicide"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Brandy", menge = "2cl" },
+{ name = "Kahlua", menge = "1cl" },
+{ name = "Bailey's", menge = "1cl" } ]
+
+[shots.Korpiklaani]
+name = "Korpiklaani"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Wodka", menge = "2cl" },
+{ name = "Whisky (Jameson)", menge = "2cl" } ]
+
+[shots.Arch_Enemy]
+name = "Arch Enemy"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Chantre", menge = "2cl" },
+{ name = "Pepino Peach", menge = "1cl" },
+{ name = "Wodka", menge = "1cl" } ]
+
+[shots.Heino]
+name = "Heino"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Amaretto", menge = "2cl" },
+{ name = "Brandy", menge = "1cl" },
+{ name = "Apfelsaft", menge = "1cl" } ]
+
+[shots.Decapitated]
+name = "Decapitated"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Whisky", menge = "2cl" },
+{ name = "Gin", menge = "1cl" },
+{ name = "Wasser", menge = "1cl" },
+{ name = "Angostura", menge = "Spritzer" } ]
+
+[shots.Taylor_Swift]
+name = "Taylor Swift"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Campari", menge = "2cl" },
+{ name = "Blue Curacao", menge = "2cl" } ]
+
+[shots.Dying_Fetus_1]
+name = "Dying Fetus 1"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Gallano", menge = "1cl" },
+{ name = "Triple Sec", menge = "1cl" },
+{ name = "Baileys", menge = "2cl" },
+{ name = "Angostura", menge = "Spritzer" } ]
+
+[shots.Dying_Fetus_2]
+name = "Dying Fetus 2"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Passoa", menge = "2cl" },
+{ name = "Whisky (nicht Jameson)", menge = "2cl" } ]
+
+[shots.Dying_Fetus_3]
+name = "Dying Fetus 3"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Pepino Peach", menge = "2cl" },
+{ name = "Whisky", menge = "2cl" } ]
+
+[shots.Wintersun]
+name = "Wintersun"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Apfelbourbon", menge = "2cl" },
+{ name = "Amaretto", menge = "2cl" } ]
+
+[shots.Excrementory_Grindfuckers_1]
+name = "Excrementory Grindfuckers 1"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Erdb. Rhabarber", menge = "2cl" },
+{ name = "Wodka", menge = "2cl" } ]
+
+[shots.Excrementory_Grindfuckers_2]
+name = "Excrementory Grindfuckers 2"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Bananensaft", menge = "2cl" },
+{ name = "Wodka", menge = "2cl" } ]
+
+[shots.Whitechapel]
+name = "Whitechapel"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Joster", menge = "2cl" },
+{ name = "Gin 4bar ", menge = "2cl" } ]
+
+[shots.Fallujah]
+name = "Fallujah"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Granatapfelwein", menge = "3cl" },
+{ name = "Gin", menge = "1cl" } ]
+
+[shots.Trivium_1]
+name = "Trivium 1"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Campari", menge = "2cl" },
+{ name = "Wodka", menge = "2cl" } ]
+
+[shots.Trivium_2]
+name = "Trivium 2"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Aperol", menge = "2cl" },
+{ name = "Wodka", menge = "2cl" } ]
+
+[shots.Legion_Of_The_Damned]
+name = "Legion Of The Damned"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Apfelsaft", menge = "2cl" },
+{ name = "Rum (Meyers Rum)", menge = "1cl" },
+{ name = "Whisky (Four Roses Burbon)", menge = "1cl" } ]
+
+[shots.Necrophagist]
+name = "Necrophagist"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Tequila", menge = "3cl" },
+{ name = "Limetten/Zitronensaft", menge = "1cl" } ]
+
+[shots.Ensiferum]
+name = "Ensiferum"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Slivovic", menge = "4cl" } ]
+
+[shots.Kvelertak]
+name = "Kvelertak"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Jägermeister", menge = "4cl" } ]
+
+[shots.Decrepit_Birth_1]
+name = "Decrepit Birth 1"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Absinth", menge = "4cl" } ]
+
+[shots.Decrepit_Birth_2]
+name = "Decrepit Birth 2"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Bananensaft", menge = "1cl" },
+{ name = "Gin", menge = "3cl" },
+{ name = "Angostura", menge = "Spritzer" } ]
+
+[shots.Obscura_1]
+name = "Obscura 1"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Korn", menge = "3cl" },
+{ name = "Bananensaft", menge = "1cl" } ]
+
+[shots.Obscura_2]
+name = "Obscura 2"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Wermut", menge = "3cl" },
+{ name = "Limetten/Zitronensaft", menge = "1cl" } ]
+
+[shots.Hello_Kitty]
+name = "Hello Kitty"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Malibu", menge = "4cl" } ]
+
+[shots.Misery_Index]
+name = "Misery Index"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Ouzo", menge = "4cl" } ]
+
+[shots.Dark_Tranquillity]
+name = "Dark Tranquillity"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Passoa", menge = "2cl" },
+{ name = "Wodka", menge = "2cl" } ]
+
+[shots.Milking_The_Goatmachine]
+name = "Milking The Goatmachine"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Milch", menge = "1cl" },
+{ name = "Wodka", menge = "1cl" },
+{ name = "43er", menge = "2cl" } ]
+
+[shots.Bloodbath]
+name = "Bloodbath"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Wodka", menge = "3cl" },
+{ name = "Kirschsaft", menge = "1cl" } ]
+
+[shots.Ne_Obliviscaris_1]
+name = "Ne Obliviscaris 1"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Lillet Blanc", menge = "2cl" },
+{ name = "Wodka", menge = "1cl" },
+{ name = "Gin", menge = "1cl" } ]
+
+[shots.Ne_Obliviscaris_2]
+name = "Ne Obliviscaris 2"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Wodka", menge = "3cl" },
+{ name = "Gin Oder Verm.", menge = "1cl" } ]
+
+[shots.Ektomorf]
+name = "Ektomorf"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Surprise Motherfucker", menge = "4cl" } ]
+
+[shots.Obscurity]
+name = "Obscurity"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Korn", menge = "2cl" },
+{ name = "Grenadinen Sirup", menge = "1cl" },
+{ name = "Blue Curacao", menge = "1cl" } ]
+
+[shots.Death]
+name = "Death"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Wodka", menge = "3cl" },
+{ name = "Maracujasaft", menge = "1cl" } ]
+
+[shots.At_The_Gates_]
+name = "At The Gates "
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Aquavit", menge = "4cl" } ]
+
+[shots.Irreversible_Mechanism]
+name = "Irreversible Mechanism"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Korn", menge = "3cl" },
+{ name = "Limetten/Zitronensaft", menge = "1cl" } ]
+
+[shots.Cattle_Decapitation]
+name = "Cattle Decapitation"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Wodka", menge = "2cl" },
+{ name = "Lillet Blanc", menge = "2cl" },
+{ name = "Limetten/Zitronensaft", menge = "Spritzer" } ]
+
+[shots.Steel_Panther]
+name = "Steel Panther"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Kokosschnaps", menge = "1cl" },
+{ name = "Grenadinen Sirup", menge = "1cl" },
+{ name = "Wodka", menge = "2cl" } ]
+
+[shots.Katatonia]
+name = "Katatonia"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Marillenschnaps", menge = "3cl" },
+{ name = "Campari", menge = "1cl" } ]
+
+[shots.Veil_Of_Maya]
+name = "Veil Of Maya"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Kahlua", menge = "2cl" },
+{ name = "Stroh 80", menge = "1cl" },
+{ name = "Milch", menge = "1cl" } ]
+
+[shots.Agalloch]
+name = "Agalloch"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Wodka", menge = "3cl" },
+{ name = "Bitter Lemon", menge = "1cl" } ]
+
+[shots.In_Extremo]
+name = "In Extremo"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Pils", menge = "2cl" },
+{ name = "Korn", menge = "2cl" } ]
+
+[shots.Six_Feet_Under]
+name = "Six Feet Under"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Tequila", menge = "2cl" },
+{ name = "Kirschsaft", menge = "2cl" } ]
+
+[shots.Scorpions]
+name = "Scorpions"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Campari", menge = "2cl" },
+{ name = "Wodka", menge = "2cl" } ]
+
+[shots.Black_Crown_Initiate]
+name = "Black Crown Initiate"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Gin", menge = "3cl" },
+{ name = "Angostura", menge = "Spritzer" },
+{ name = "Blue Curacao", menge = "Spritzer" } ]
+
+[shots.Arkona]
+name = "Arkona"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Wodka", menge = "2cl" },
+{ name = "Kahlua", menge = "2cl" } ]
+
+[shots.Benighted_1]
+name = "Benighted 1"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Bombay", menge = "3cl" },
+{ name = "Kirschsaft", menge = "1cl" } ]
+
+[shots.Benighted_2]
+name = "Benighted 2"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Fernet", menge = "3cl" },
+{ name = "Kirschsaft", menge = "1cl" } ]
+
+[shots.Benighted_3]
+name = "Benighted 3"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Gin", menge = "3cl" },
+{ name = "Kirschsaft", menge = "1cl" } ]
+
+[shots.Insomnium]
+name = "Insomnium"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Kahlua", menge = "2cl" },
+{ name = "Sambuca", menge = "2cl" } ]
+
+[shots.Psycroptic]
+name = "Psycroptic"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Tequila", menge = "2cl" },
+{ name = "Pfeffi", menge = "2cl" } ]
+
+[shots.Disillusion]
+name = "Disillusion"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Aquavit", menge = "3cl" },
+{ name = "Maracujasaft", menge = "1cl" } ]
+
+[shots.Origin]
+name = "Origin"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Gin", menge = "2cl" },
+{ name = "Malibu", menge = "2cl" } ]
+
+[shots.Paradise_Lost]
+name = "Paradise Lost"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Triple Sec", menge = "2cl" },
+{ name = "Rum", menge = "2cl" } ]
+
+[shots.Rivers_Of_Nihil_1]
+name = "Rivers Of Nihil 1"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Jägermeister", menge = "2cl" },
+{ name = "O-Saft", menge = "2cl" } ]
+
+[shots.Rivers_Of_Nihil_2]
+name = "Rivers Of Nihil 2"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Gin", menge = "3cl" },
+{ name = "Apfelsaft", menge = "1cl" } ]
+
+[shots.Solstafir]
+name = "Solstafir"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Wermut (Rot)", menge = "1cl" },
+{ name = "Gin", menge = "3cl" },
+{ name = "Eiswürfel", menge = "1" } ]
+
+[shots.Papa_Roach]
+name = "Papa Roach"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Obstschnaps", menge = "2cl" },
+{ name = "Ananassaft", menge = "2cl" } ]
+
+[shots.Harakiri_For_The_Sky]
+name = "Harakiri For The Sky"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Wodka", menge = "3cl" },
+{ name = "Sprudel", menge = "1cl" },
+{ name = "Salz", menge = "Prise" } ]
+
+[shots.Archspire]
+name = "Archspire"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Sierra Gold", menge = "2cl" },
+{ name = "Wodka", menge = "2cl" },
+{ name = "Angostura", menge = "Spritzer" } ]
+
+[shots.Soreption]
+name = "Soreption"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Korn", menge = "2cl" },
+{ name = "Wodka", menge = "2cl" },
+{ name = "Salz", menge = "Prise" } ]
+
+[shots.Toter_Nazi]
+name = "Toter Nazi"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Pfeffi", menge = "2cl" },
+{ name = "Jägermeister", menge = "2cl" } ]
+
+[shots.Bullet_For_My_Valentine]
+name = "Bullet For My Valentine"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "43er", menge = "2cl" },
+{ name = "Baileys", menge = "2cl" } ]
+
+[shots.Dragonforce]
+name = "Dragonforce"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Drakenbloud Met", menge = "2cl" },
+{ name = "Wodka", menge = "2cl" } ]
+
+[shots.Heilung]
+name = "Heilung"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Fernet", menge = "2cl" },
+{ name = "Apfelsaft", menge = "2cl" },
+{ name = "Angostura", menge = "Spritzer" } ]
+
+[shots.Beyond_Creation]
+name = "Beyond Creation"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Ouzo", menge = "3cl" },
+{ name = "Joster", menge = "1cl" } ]
+
+[shots.Molotov]
+name = "Molotov"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Korn", menge = "1cl" },
+{ name = "Sangrita", menge = "1cl" },
+{ name = "Tomatensaft", menge = "2cl" },
+{ name = "Salz", menge = "Prise" },
+{ name = "Pfeffer", menge = "Prise" },
+{ name = "Tabasco", menge = "Spritzer" } ]
+
+[shots.Jasmin_Wagner]
+name = "Jasmin Wagner"
+logo = ""
+preis = "2€"
+zutaten = [
+{ name = "Joster", menge = "2cl" },
+{ name = "Gin", menge = "2cl" } ]
+

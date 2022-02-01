@@ -1,0 +1,86 @@
+#43er
+#Absinth
+#Amaretto
+#Ananassaft
+#Angostura
+#Aperol
+#Apfelbourbon
+#Apfelsaft
+#Aquavit
+#Ayran
+#Baileys
+#Bananensaft
+#Batida
+#Bitter Lemon
+#Blue Curacao
+#Bombay
+#Brandy
+#Cachaca
+#Campari
+#Chantre
+#Cointreau
+#Cranberry
+#Drakenbloud Met
+#Eiswürfel
+#Erdb. Rhabarber
+#Fernet
+#Gallano
+#Gin
+#Gin (billig)
+#Gin 4bar 
+#Gin Oder Verm.
+#Granatapfelwein
+#Grenadinen Sirup
+#Himbeersirup
+#Irish Cream
+#Joster
+#Jägermeister
+#Kahlua
+Kirschsaft
+Kokosschnaps
+Korn
+Lillet Blanc
+Limetten/Zitronensaft
+Malibu
+Maracujasaft
+Marillenschnaps
+Martini
+Milch
+O-Saft
+Obstschnaps
+Ouzo
+Passoa
+Peach Brandy
+Pepino Peach
+Pfeffer
+Pfeffi
+Pils
+Rivella
+Rum
+Rum (Captain Morgan)
+Rum (Meyers Rum)
+Rum (billig z.B. White Diamond)
+Salz
+Sambuca
+Sangrita
+Sekt
+Sierra Gold
+Slivovic
+Southern Comfort
+Sprudel
+Stroh 80
+Surprise Motherfucker
+Tabasco
+Tequila
+Tomatensaft
+Triple Sec
+Wasser
+Wermut
+Wermut (Rot)
+Whisky
+Whisky (Four Roses Burbon)
+Whisky (Jacky)
+Whisky (Jameson)
+Whisky (nicht Jameson)
+Wodka
+Zitrone
