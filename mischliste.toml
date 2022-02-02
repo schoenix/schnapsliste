@@ -18,7 +18,7 @@ zutaten = [
 
 [shots.Tankard]
 name = "Tankard"
-logo = ""
+logo = "logos/tankard_logo.png"
 preis = "2€"
 zutaten = [
 { name = "Pils", menge = "4cl" } ]
@@ -901,7 +901,7 @@ zutaten = [
 
 [shots.Insomnium]
 name = "Insomnium"
-logo = ""
+logo = "logos/insomnium_logo.png"
 preis = "2€"
 zutaten = [
 { name = "Kahlua", menge = "2cl" },
